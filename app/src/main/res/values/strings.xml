@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KitabiKiro</string>
+    <string name="app_label">Book Summary </string>
+    <string name="search_hint"> Search Book</string>
+</resources>
